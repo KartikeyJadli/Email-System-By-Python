@@ -8,3 +8,5 @@ https://youtu.be/eDELkdvqSz8
 
 Just know how to get that app password, then copy it and just paste it in the mail password inside the code.
 Remember that the mail password should be of the same email id which you are using in the system.
+
+The interface in the above project may not be satisfactory by as time follows... Further updates will surely be done in this project.
