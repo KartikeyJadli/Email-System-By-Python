@@ -3,6 +3,10 @@
 This miniproject has a GUI attached to it, you only have to import the image given and then reattach it to the GUI with just copying the file path.
 This system has been created by using SMTP libraries available in python and you can analyze all of them easily.
 
+![image](https://user-images.githubusercontent.com/96066261/219102034-349e718b-19ea-4f86-9baa-d70d4e97d675.png)
+
+The above is a temporary interface and should be modified.
+
 For the mail password you can refer to the video given below:
 https://youtu.be/eDELkdvqSz8
 
